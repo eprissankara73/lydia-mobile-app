@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestBLEProto</string>
+    <string name="connected_to">Connected to %s</string>
+    <string name="action_setting">Settings</string>
+    <string name="set_timer">Set Timer Parameter</string>
+    <string name="timer_minutes_string">Timer in Minutes</string>
+</resources>

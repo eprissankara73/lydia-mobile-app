@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:preference-v7:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\64298c694798299c21aaa3ddd33f5014\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\4e5befbe6f4c719bd1a1c101bac3bcb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\b02b940703b9e7848ca1c2cc572dfda2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\dcfbc28017d66f3c631b25fdcc52ab5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\f2ad3d7f9f75353c27dfd14d2eb20643\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\c5e0696ae912aee0a3ee40e6cc4dbcd4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\cd9555c26ea8143990f097ce9eac3fbe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\9c46ef32f7357d54ec1beb4f7e9d0a6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\a020952b8221b0b80daa1ae0730a4d39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\87b8629e1408e3eb512ac397030436d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\ab0fe736c257bd87a6130d82f277ef50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\9930d1f2ea2e3d55b4c1dfe70bf62370\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\78b0d8285969eef736118e4cef1eeeeb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\fccf0d3fe19dd09ab6af6dad0f6e3c55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\2ddc4e81e2abacb304aaacf9ed0c5967\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\601bbf1a48097dc311b18155fcc4751e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\960f8e12e6a55c40d198f19b31cef80f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\963ded1d20f7bd6c3869368326afd0e2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\eb7cfb10679723cf54cf4f85db3123b4\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\415bc9cd66e24a705c1d0a2d416b9ab1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\0ba2fed8de8aec1016678129f1a9eb71\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\79e533093caec53d4191f2ef8352c186\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\21cc3f0e9c92b71f992f93cc928b410c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\5283d56b1225053d1c375b79ac343a5d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\f2cd97cc69b79d32c7e2acbad6a70c31\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\96c2dbcc190c7b2971f1ef083f875d74\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\8e023a133b70369d33ab28d46366bfd2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\b77557d777ca666b52d94fe9e46cc70a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\0bccb09f4ef5f1a6dd6e45985776109e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:7:22-71
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:9:5-89
+	android:required
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:9:64-87
+	android:name
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:9:19-63
+application
+ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:11:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\b02b940703b9e7848ca1c2cc572dfda2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\b02b940703b9e7848ca1c2cc572dfda2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\963ded1d20f7bd6c3869368326afd0e2\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\963ded1d20f7bd6c3869368326afd0e2\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\eb7cfb10679723cf54cf4f85db3123b4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\eb7cfb10679723cf54cf4f85db3123b4\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\963ded1d20f7bd6c3869368326afd0e2\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:17:9-65
+activity#com.epri.testbleproto.MainActivity
+ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:launchMode
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:19:19-49
+	android:name
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.epri.testbleproto.MyPreferencesActivity
+ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:27:9-34:20
+	android:parentActivityName
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:29:13-55
+	android:label
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:28:13-51
+	android:name
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:27:19-56
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:30:13-33:19
+	android:value
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:32:17-46
+	android:name
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml:31:17-63
+uses-sdk
+INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:preference-v7:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\64298c694798299c21aaa3ddd33f5014\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\64298c694798299c21aaa3ddd33f5014\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\4e5befbe6f4c719bd1a1c101bac3bcb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\4e5befbe6f4c719bd1a1c101bac3bcb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\b02b940703b9e7848ca1c2cc572dfda2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\b02b940703b9e7848ca1c2cc572dfda2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\dcfbc28017d66f3c631b25fdcc52ab5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\dcfbc28017d66f3c631b25fdcc52ab5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\f2ad3d7f9f75353c27dfd14d2eb20643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\f2ad3d7f9f75353c27dfd14d2eb20643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\c5e0696ae912aee0a3ee40e6cc4dbcd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\c5e0696ae912aee0a3ee40e6cc4dbcd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\cd9555c26ea8143990f097ce9eac3fbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\cd9555c26ea8143990f097ce9eac3fbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\9c46ef32f7357d54ec1beb4f7e9d0a6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\9c46ef32f7357d54ec1beb4f7e9d0a6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\a020952b8221b0b80daa1ae0730a4d39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\a020952b8221b0b80daa1ae0730a4d39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\87b8629e1408e3eb512ac397030436d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\87b8629e1408e3eb512ac397030436d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\ab0fe736c257bd87a6130d82f277ef50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\ab0fe736c257bd87a6130d82f277ef50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\9930d1f2ea2e3d55b4c1dfe70bf62370\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\9930d1f2ea2e3d55b4c1dfe70bf62370\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\78b0d8285969eef736118e4cef1eeeeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\78b0d8285969eef736118e4cef1eeeeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\fccf0d3fe19dd09ab6af6dad0f6e3c55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\fccf0d3fe19dd09ab6af6dad0f6e3c55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\2ddc4e81e2abacb304aaacf9ed0c5967\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\2ddc4e81e2abacb304aaacf9ed0c5967\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\601bbf1a48097dc311b18155fcc4751e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\601bbf1a48097dc311b18155fcc4751e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\960f8e12e6a55c40d198f19b31cef80f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\960f8e12e6a55c40d198f19b31cef80f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\963ded1d20f7bd6c3869368326afd0e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\963ded1d20f7bd6c3869368326afd0e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\eb7cfb10679723cf54cf4f85db3123b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\eb7cfb10679723cf54cf4f85db3123b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\415bc9cd66e24a705c1d0a2d416b9ab1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\415bc9cd66e24a705c1d0a2d416b9ab1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\0ba2fed8de8aec1016678129f1a9eb71\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\0ba2fed8de8aec1016678129f1a9eb71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\79e533093caec53d4191f2ef8352c186\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\79e533093caec53d4191f2ef8352c186\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\21cc3f0e9c92b71f992f93cc928b410c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\21cc3f0e9c92b71f992f93cc928b410c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\5283d56b1225053d1c375b79ac343a5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\5283d56b1225053d1c375b79ac343a5d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\f2cd97cc69b79d32c7e2acbad6a70c31\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\f2cd97cc69b79d32c7e2acbad6a70c31\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\96c2dbcc190c7b2971f1ef083f875d74\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\96c2dbcc190c7b2971f1ef083f875d74\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\8e023a133b70369d33ab28d46366bfd2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\8e023a133b70369d33ab28d46366bfd2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\b77557d777ca666b52d94fe9e46cc70a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\b77557d777ca666b52d94fe9e46cc70a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\0bccb09f4ef5f1a6dd6e45985776109e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pvan002\.gradle\caches\transforms-2\files-2.1\0bccb09f4ef5f1a6dd6e45985776109e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pvan002\Box Sync\low_income_thermostats\android_app\ver12\app\src\main\AndroidManifest.xml

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="timer_setting"
+        android:title="@string/set_timer"
+        android:defaultValue="false"
+        />
+    <EditTextPreference
+        android:key="timer_minutes_edittext"
+        android:title="@string/timer_minutes_string"
+        android:dependency="timer_setting"
+        android:dialogTitle="Set Timer Value"
+        android:dialogMessage="Set Timer mins (1-60)"
+        android:defaultValue="15"
+        />
+
+    <CheckBoxPreference
+        android:key="cool_heat_setpoint"
+        android:title="Cool Heat Setpoint"
+        android:defaultValue="false"
+        />
+
+    <EditTextPreference
+        android:key="cool_tb"
+        android:title="Cool Setpoint"
+        android:dependency="cool_heat_setpoint"
+        android:dialogTitle="Set Cool Setpoint"
+        android:dialogMessage="Set Cool setpoint (60-90)"
+        android:defaultValue="75"
+        />
+
+    <EditTextPreference
+        android:key="heat_tb"
+        android:title="Heat Setpoint"
+        android:dependency="cool_heat_setpoint"
+        android:dialogTitle="Set Heat Setpoint"
+        android:dialogMessage="Set Heat setpoint (50-70)"
+        android:defaultValue="68"
+        />
+
+
+    <CheckBoxPreference
+        android:key="hysteresis_setting"
+        android:title="Hysteresis"
+        android:defaultValue="false"
+        />
+
+    <EditTextPreference
+        android:key="hysteresis_tb"
+        android:title="Hysteresis Setting"
+        android:dependency="hysteresis_setting"
+        android:dialogTitle="Set Hysteresis"
+        android:dialogMessage="Set value (1-2)"
+        android:defaultValue="1"
+        />
+
+    <CheckBoxPreference
+        android:key="mode_setting"
+        android:title="Mode"
+        android:defaultValue="false"
+        />
+
+    <EditTextPreference
+        android:key="mode_tb"
+        android:title="Mode Setting"
+        android:dependency="mode_setting"
+        android:dialogTitle="Set Mode"
+        android:dialogMessage="Set value (1:HC, 2:H, 3:C)"
+        android:defaultValue="1"
+        />
+
+    <CheckBoxPreference
+        android:key="schedule_setting"
+        android:title="Schedule (Home/Away/No Sch)"
+        android:defaultValue="false"
+        />
+
+    <EditTextPreference
+        android:key="schedule_tb"
+        android:title="Schedule Setting"
+        android:dependency="schedule_setting"
+        android:dialogTitle="Set Home/Away/No Sch"
+        android:dialogMessage="Set  (1:Home, 2:Away, 4:No Sch)"
+        android:defaultValue="1"
+        />
+    <CheckBoxPreference
+        android:key="devicepower_setting"
+        android:title="Power (On/Off)"
+        android:defaultValue="false"
+        />
+
+    <EditTextPreference
+        android:key="powersetting_tb"
+        android:title="Device Power Setting"
+        android:dependency="devicepower_setting"
+        android:dialogTitle="Set On/Off"
+        android:dialogMessage="Set  (1:On, 2:Off)"
+        android:defaultValue="1"
+        />
+
+
+</PreferenceScreen>

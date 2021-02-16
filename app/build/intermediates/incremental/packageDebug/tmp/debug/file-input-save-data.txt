@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon May 13 10:25:18 PDT 2019
+1.base=C\:\\Users\\pvan002\\Box Sync\\low_income_thermostats\\android_app\\ver12\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\pvan002\\Box Sync\\low_income_thermostats\\android_app\\ver12\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+1.path=classes.dex
